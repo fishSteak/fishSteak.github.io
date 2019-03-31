@@ -74,9 +74,14 @@
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="10" />
+              <caret lean-forward="true" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fishSteak.github.io.iws">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -216,12 +221,12 @@
       <updated>1554015303069</updated>
       <workItem from="1554015307226" duration="5148000" />
       <workItem from="1554020859150" duration="524000" />
-      <workItem from="1554022030250" duration="1746000" />
+      <workItem from="1554022030250" duration="1839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7418000" />
+    <option name="totallyTimeSpent" value="7511000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -288,11 +293,6 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.MF" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
-    <entry file="file://$PROJECT_DIR$/fishSteak.github.io.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6887" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md" />
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -362,10 +362,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fishSteak.github.io.iws">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="10" />
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
