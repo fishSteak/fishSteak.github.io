@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="" />
+    <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fishSteak.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/fishSteak.github.io.iws" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +16,12 @@
     <favorites_list name="fishSteak.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2850">
-              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+            <state relative-caret-position="225">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="93">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="100">
                 <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               </first_editor>
               <second_editor />
@@ -39,20 +42,20 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+              <first_editor relative-caret-position="1375">
+                <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="293">
+                <caret line="50" column="70" lean-forward="true" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,7 +74,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -95,14 +102,14 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-31 -我的第一篇博客.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="839" />
+    <option name="x" value="837" />
     <option name="width" value="1071" />
     <option name="height" value="1071" />
   </component>
@@ -111,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,14 +144,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554019713507" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554020484982" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown&#10;Manifest" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
@@ -186,12 +193,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554015303069</updated>
-      <workItem from="1554015307226" duration="4388000" />
+      <workItem from="1554015307226" duration="5148000" />
+      <workItem from="1554020859150" duration="337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4388000" />
+    <option name="totallyTimeSpent" value="5485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,14 +214,14 @@
     <frame x="0" y="0" width="1549" height="871" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49727768" visible="true" weight="0.24682274" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49727768" visible="true" weight="0.25083613" />
       <window_info id="Structure" order="1" sideWeight="0.50192064" side_tool="true" weight="0.20468228" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5027223" side_tool="true" weight="0.2382182" />
+      <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -227,9 +235,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32786885" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49966556" visible="true" weight="0.3290653" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49966556" weight="0.3290653" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2498386" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -239,6 +245,8 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Palette" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,33 +263,9 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="300">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.MF" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -290,11 +274,12 @@
         <state relative-caret-position="-6887" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-06-ReactiveCocoa-进阶.md" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1375">
+            <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
@@ -303,40 +288,51 @@
     <entry file="file://$PROJECT_DIR$/fishSteak.github.io.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2850">
-          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="55" column="54" lean-forward="true" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="93">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="100">
             <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="293">
+            <caret line="50" column="70" lean-forward="true" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
