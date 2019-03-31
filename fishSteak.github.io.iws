@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/353_d5151409839050aca3de10d0f3afb.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fishSteak.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/fishSteak.github.io.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,14 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="250">
-                <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <first_editor relative-caret-position="225">
+                <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-3-31-HashMap遍历及性能对比.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -132,6 +142,11 @@
               <item name="fishSteak.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fishSteak.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fishSteak.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fishSteak.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fishSteak.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -165,10 +180,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fish_Steak\Documents\github\fishSteak.github.io\img" />
       <recent name="C:\Users\Fish_Steak\Documents\github\fishSteak.github.io\_posts" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Fish_Steak\Documents\github\fishSteak.github.io\_posts" />
     </key>
   </component>
@@ -196,12 +212,12 @@
       <updated>1554015303069</updated>
       <workItem from="1554015307226" duration="5148000" />
       <workItem from="1554020859150" duration="524000" />
-      <workItem from="1554022030250" duration="491000" />
+      <workItem from="1554022030250" duration="787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6163000" />
+    <option name="totallyTimeSpent" value="6459000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,10 +347,17 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="250">
-            <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="114" column="11" lean-forward="true" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
         </state>
       </provider>
     </entry>
