@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "WDY",
-        href: "http://fishSteak.githuv.io"
+        href: "http://fishSteak.github.io"
     },{
        # title: "简书·BY",
        # href: "http://www.jianshu.com/u/e71990ada2fd"
