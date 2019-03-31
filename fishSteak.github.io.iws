@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="" />
+    <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="493">
-                <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+              <first_editor relative-caret-position="293">
+                <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -95,6 +106,7 @@
       <find>简书</find>
       <find>简述</find>
       <find>track</find>
+      <find>qiubaiying.top</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -112,6 +124,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -208,12 +221,12 @@
       <updated>1554015303069</updated>
       <workItem from="1554015307226" duration="5148000" />
       <workItem from="1554020859150" duration="524000" />
-      <workItem from="1554022030250" duration="1302000" />
+      <workItem from="1554022030250" duration="1418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6974000" />
+    <option name="totallyTimeSpent" value="7090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,9 +293,6 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-06-快速搭建个人博客.md" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.MF" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/fishSteak.github.io.iws">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6887" />
@@ -350,10 +360,17 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/2019-3-31-HashMap遍历及性能对比.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="493">
-            <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <first_editor relative-caret-position="293">
+            <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
