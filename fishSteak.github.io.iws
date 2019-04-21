@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题之总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-31-我的第一篇博客.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishSteak.github.io.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/fishSteak.github.io.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题之总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题之总结.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fishSteak.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/fishSteak.github.io.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-desk.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-9-Java形参和实参.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
+              <first_editor relative-caret-position="275">
                 <caret line="11" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor>
@@ -95,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题之总结.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="350">
-                <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <first_editor relative-caret-position="600">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -159,7 +156,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="828" />
+    <option name="x" value="826" />
     <option name="width" value="1071" />
     <option name="height" value="1071" />
   </component>
@@ -168,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +195,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -259,7 +256,8 @@
       <workItem from="1555244435317" duration="1956000" />
       <workItem from="1555849724995" duration="666000" />
       <workItem from="1555850499791" duration="252000" />
-      <workItem from="1555850860283" duration="946000" />
+      <workItem from="1555850860283" duration="1246000" />
+      <workItem from="1555852230632" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="4-9">
       <created>1554798246505</created>
@@ -296,11 +294,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555244901423</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4-21 update">
+      <created>1555851834490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555851834490</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17862000" />
+    <option name="totallyTimeSpent" value="18321000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +320,7 @@
     <frame x="0" y="0" width="1549" height="871" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49727768" visible="true" weight="0.28628764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49727768" visible="true" weight="0.2909699" />
       <window_info id="Structure" order="1" sideWeight="0.50192064" side_tool="true" weight="0.20468228" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -405,7 +410,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4-9" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-9" />
+    <MESSAGE value="4-21 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-21 update" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -481,6 +487,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题回顾.md" />
+    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -523,10 +536,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+    <entry file="file://$PROJECT_DIR$/_posts/2019-4-9-Java形参和实参.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="275">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
@@ -542,23 +560,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-4-9-Java形参和实参.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-21-Bootstrap遇到的问题之总结.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <first_editor relative-caret-position="600">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
