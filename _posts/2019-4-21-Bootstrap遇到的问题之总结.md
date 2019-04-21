@@ -9,7 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - bootstrap
 ---
-<h3>关于html文件引入bootStrap顺序</h3>
+## 关于html文件引入bootStrap顺序
 
 最近又一次遇到了bootstrap上以前犯过的问题，今天总结一下，争取以后不再犯
 
@@ -30,4 +30,4 @@ bootStrap官网这样写的
 
 不注意又以为我代码哪里冲突了。。。
 
-总结：由于bootstrap的js文件部分功能的实现前提是jquery功能的基础上实现的，所以要先引用jquery的文件。ㄟ( ▔, ▔ )ㄏ。。。
+### 总结：由于bootstrap的js文件部分功能的实现前提是jquery功能的基础上实现的，所以要先引用jquery的文件。ㄟ( ▔, ▔ )ㄏ。。。
