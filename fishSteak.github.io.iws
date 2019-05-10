@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b92d839-4fb0-4e3a-be87-9fc691801cc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-5-10-java全排列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fishSteak.github.io.iws" beforeDir="false" afterPath="$PROJECT_DIR$/fishSteak.github.io.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-5-10-java全排列.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-5-10-java全排列.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-10-java全排列.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="524">
-                <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+              <first_editor relative-caret-position="499">
+                <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -216,7 +215,7 @@
       <workItem from="1557462811605" duration="433000" />
       <workItem from="1557463276635" duration="205000" />
       <workItem from="1557463527309" duration="14000" />
-      <workItem from="1557463562345" duration="171000" />
+      <workItem from="1557463562345" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="4-9">
       <created>1554798246505</created>
@@ -313,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23031000" />
+    <option name="totallyTimeSpent" value="23072000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -584,8 +583,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-10-java全排列.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="524">
-            <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <first_editor relative-caret-position="499">
+            <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
