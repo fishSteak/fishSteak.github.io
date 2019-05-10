@@ -37,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-5-10-java全排列.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="499">
-                <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+              <first_editor relative-caret-position="574">
+                <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -215,7 +215,7 @@
       <workItem from="1557462811605" duration="433000" />
       <workItem from="1557463276635" duration="205000" />
       <workItem from="1557463527309" duration="14000" />
-      <workItem from="1557463562345" duration="212000" />
+      <workItem from="1557463562345" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="4-9">
       <created>1554798246505</created>
@@ -312,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23072000" />
+    <option name="totallyTimeSpent" value="23209000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,8 +583,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-5-10-java全排列.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="499">
-            <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+          <first_editor relative-caret-position="574">
+            <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
